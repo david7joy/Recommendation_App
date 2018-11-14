@@ -4,6 +4,8 @@ This Repository focuses on Recommendation systems, I majorily cover 3 types of r
 - Correlation based 
 - Model Based collaborative Filtering ( User Ratings )
 
+![Screenshot](Screen Shot 2018-11-14 at 12.22.01 AM.png)
+
 Although all the above 3 have been tried, the recommendation is app is based on Collaborative filtering which relies on user ratings and its correlation.
 
 Recommendation Model (app):
