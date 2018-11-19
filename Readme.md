@@ -23,3 +23,5 @@ directory.
 - create view.py and functions to call the links in applications
 - create urls.py for the applications.
 
+# video
+
